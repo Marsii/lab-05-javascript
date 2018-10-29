@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+// your JavaScript goes here!
+var nameText;
+
+nameText = prompt("What's your name?");
+var nameAnswer = parseInt(nameText);
+console.log("Hi\t" + nameAnswer + "\t!");
+
+</script> 
+</body>
+</html>
